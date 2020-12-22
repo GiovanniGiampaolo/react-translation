@@ -1,0 +1,6 @@
+{
+  "welcome": "Benvenuto in una react app che utilizza react-i18next",
+  "description": {
+    "part1": "Cambia tra le varie lingue con i pulsanti sopra."
+  }
+}
