@@ -1,0 +1,6 @@
+{
+  "welcome": "欢迎使用react-i18next来使用React应用 说明",
+  "description": {
+    "part1": "使用上面的按钮在各种语言之间切换。"
+  }
+}

@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.t-button {
+  min-height: 35px;
+  margin: 5px;
+}
+

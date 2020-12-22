@@ -1,0 +1,6 @@
+{
+  "welcome": "Welcome to react using react-i18next",
+  "description": {
+    "part1": "To get started, edit src/App.js and save to reload."
+  }
+}

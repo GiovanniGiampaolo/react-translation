@@ -1,0 +1,6 @@
+{
+  "welcome": "Bienvenue dans une application de réaction utilisant react-i18next",
+  "description": {
+    "part1": "Basculez entre les différentes langues avec les boutons ci-dessus."
+  }
+}
